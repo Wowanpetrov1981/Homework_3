@@ -27,7 +27,11 @@ public class Main {
     }
 
     public static void task2() {
-        float cargoWeight = 27.12F;
+        float cargoWeight = 27.12f;
+        char symbol1 = 987;
+        char symbol2 = 678;
+        char symbol3 = 965;
+        char symbol4 = 549;
         byte cat = 2;
         short height = 786;
         boolean statement = false;
@@ -44,7 +48,7 @@ public class Main {
         double sandWeight = 1456.7777777777777;
         char plus = 43;
         boolean exceedingTheLoadCapacity = passengerWeight > 1000;
-        System.out.println(plus);
+        System.out.println(symbol4);
         System.out.println();
     }
 
